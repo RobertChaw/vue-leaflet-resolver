@@ -2,7 +2,7 @@
 resolver of unplugin-vue-components for vue-leaflet
 ```javascript
 ...
-import Inspect from "vite-plugin-inspect";
+import LeafLetResolver from "./src/utils/leafLetResolver";
 ...
 
 export default defineConfig({
